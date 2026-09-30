@@ -6,7 +6,7 @@ CATIA V5 VBAオートメーションAPI（全1165クラス）と、EKL（ルー�
 
 ## ダウンロード
 
-準備中です。公開時は、このリポジトリの Releases からパスワード付きZIPとして配布します。パスワードは書籍の第1.0節・第1.8節に記載しています。
+このリポジトリの [Releases](https://github.com/yusuke-marin/catia_knowledge_db/releases) から、最新版のパスワード付きZIPをダウンロードしてください。パスワードは書籍の第1.0節に記載しています。
 
 ## 使い方
 
